@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "sustained.online"
+title                    : "Sustained online"
 title_separator          : "-"
 name                     : "Dave"
-description              : "Sustained and simple living"
+description              : "Sustaiable and simple living"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
